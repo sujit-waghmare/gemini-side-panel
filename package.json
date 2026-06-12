@@ -1,0 +1,12 @@
+{
+  "name": "gemini-side-panel",
+  "version": "1.3.3",
+  "description": "Side-panel chat for Gemini with note-specific history, temperature control, and custom template referencing.",
+  "main": "main.js",
+  "scripts": {
+    "version": "node version-bump.mjs && git add manifest.json versions.json"
+  },
+  "keywords": ["obsidian", "gemini", "ai", "chat", "side-panel"],
+  "author": "Waghmare",
+  "license": "MIT"
+}

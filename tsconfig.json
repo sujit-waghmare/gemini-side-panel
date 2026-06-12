@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "module": "CommonJS",
+    "target": "ES6",
+    "allowSyntheticDefaultImports": true,
+    "lib": ["ES6", "DOM"],
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "moduleResolution": "node"
+  },
+  "include": ["**/*.ts"]
+}
