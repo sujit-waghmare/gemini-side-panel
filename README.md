@@ -152,6 +152,35 @@ Go to **Settings → Gemini Side Panel** and configure:
 
 ---
 
+## ❓ FAQ
+
+<details>
+<summary><strong>Q: Is the voice transcription free?</strong></summary>
+Yes. Sarvam AI provides a free tier. You just need to create an account and generate a key at dashboard.sarvam.ai.
+</details>
+
+<details>
+<summary><strong>Q: Why don't I see the microphone button?</strong></summary>
+The button remains hidden until you paste a valid Sarvam API Key in the plugin settings. Once added, the button will appear next to the Send button.
+</details>
+
+<details>
+<summary><strong>Q: Will Gemini always follow my template structure?</strong></summary>
+It strongly enforces it via a CRITICAL RULE prompt. Setting temperature to 1.0 improves compliance.
+</details>
+
+<details>
+<summary><strong>Q: Does the plugin send my notes to Google?</strong></summary>
+Only when Source is set to Note and you send a message. No data is stored externally by the plugin itself.
+</details>
+
+<details>
+<summary><strong>Q: Where is chat history stored?</strong></summary>
+Locally inside your vault, in .obsidian/plugins/gemini-side-panel/data.json.
+</details>
+
+---
+
 ## 💡 Pro Tips
 
 - **Clear Chat** — Use the `Clear Gemini chat history` command to wipe only the active note's history.
@@ -195,7 +224,7 @@ See [CHANGELOG.md](CHANGELOG.md) for full version history.
 
 ## 📑 Guide
 
-See [comprehensive guide](https://github.com/sujit-waghmare/gemini-side-panel/blob/32bdfd461fc7a0353a0beb9a362250fd6b9f4ab9/assets/Tutorial/Gemini%20in%20Side%20Panel%20Guide.md) for full details.
+See [comprehensive guide](https://github.com/sujit-waghmare/gemini-side-panel/blob/82161d07b30673172a1b1886fd5bede3241d846f/assets/Tutorial/Gemini%20in%20Side%20Panel.md) for full details.
 
 ---
 
