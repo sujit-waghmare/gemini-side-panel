@@ -4,6 +4,22 @@ All notable changes to **Gemini Side Panel** will be documented here.
 
 ---
 
+## [1.4.0] — 2026-06-14
+
+### Added
+- **Sarvam AI Voice Transcription** — Hold 🎤 to record, release to transcribe (English + 11 Indic languages via `saaras:v3`)
+- **Sarvam API Key field** in Settings → Voice Transcription section (password input)
+- **Voice button** auto-shown/hidden based on whether Sarvam key is set; updates live without restarting
+- **Recording pulse animation** — red glow when mic is active
+- **Transcribing indicator** — pulsing `🎤 Transcribing...` label while waiting for API
+- `cleanMimeType` fix — strips codec suffix from `Content-Type` before sending (fixes Sarvam rejection)
+
+### Fixed
+- **TDZ bug in settings** — `tempDisplay` DOM element now declared before the `Setting` slider that references it
+- Optional chaining on `settings?.modelId` and `settings?.enableHistory` guards against undefined during cold load
+
+---
+
 ## [1.3.3] — 2026-04-20
 
 ### Fixed
