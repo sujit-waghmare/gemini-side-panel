@@ -1,5 +1,5 @@
 # Gemini Side Panel
-![banner](https://github.com/sujit-waghmare/gemini-side-panel/blob/32bdfd461fc7a0353a0beb9a362250fd6b9f4ab9/assets/images/Gemini-side-panel-banner.png)
+![banner](https://github.com/sujit-waghmare/gemini-side-panel/blob/1bea5ba6a779ccf0654f935e1b365a5e235bb3c2/assets/images/Gemini-side-panel-banner%5Bv1.4.0%5D.png)
 
 [![GitHub release](https://img.shields.io/github/v/release/sujit-waghmare/gemini-side-panel?color=blue&style=flat-square)](https://github.com/sujit-waghmare/gemini-side-panel/releases)
 [![Obsidian](https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square)](https://obsidian.md)
@@ -19,7 +19,7 @@ A side-panel Gemini chat for Obsidian with note-specific history, temperature co
 - **Source Toggle** — `Note` mode (strict context only) or `Internet` mode (general knowledge)
 - **Format Options** — Better Visuals, Better Understanding, or Brief Information
 - **Template Engine** — Map your own `.md` files as response templates; Gemini mirrors their exact structure
-- **🎤 Voice Input** — Hold the mic button to record, release to transcribe via Sarvam AI (English + 11 Indic languages)
+- **Voice Input** — Hold the mic button to record, release to transcribe via Sarvam AI (English + 11 Indic languages)
 - **LaTeX Support** — Renders `$inline$` and `$$block$$` math automatically
 - **Hold to Copy** — Long-press any response bubble for 600ms to copy its contents
 - **Theme Sync** — Inherits your Obsidian accent colors automatically
