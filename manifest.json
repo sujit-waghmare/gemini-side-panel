@@ -1,11 +1,11 @@
 {
 	"id": "gemini-side-panel",
 	"name": "Gemini Side Panel",
-	"version": "1.3.3",
+	"version": "1.4.0",
 	"minAppVersion": "0.15.0",
-	"description": "Side-panel chat for Gemini with note-specific history, temperature control, and custom template referencing.",
+	"description": "Side-panel chat for Gemini with note-specific history, temperature control, custom template referencing, and Sarvam AI voice transcription.",
 	"author": "Waghmare",
 	"authorUrl": "https://github.com/sujit-waghmare",
-  "fundingUrl": "https://paypal.me/waghmaresujit",
+	"fundingUrl": "https://paypal.me/waghmaresujit",
 	"isDesktopOnly": false
 }
