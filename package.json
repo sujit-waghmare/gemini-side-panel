@@ -1,6 +1,6 @@
 {
   "name": "gemini-side-panel",
-  "version": "1.3.3",
+  "version": "1.4.0",
   "description": "Side-panel chat for Gemini with note-specific history, temperature control, and custom template referencing.",
   "main": "main.js",
   "scripts": {
