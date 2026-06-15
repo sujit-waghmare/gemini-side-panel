@@ -1,5 +1,5 @@
 # Gemini Side Panel
-![banner](https://github.com/sujit-waghmare/gemini-side-panel/blob/1bea5ba6a779ccf0654f935e1b365a5e235bb3c2/assets/images/Gemini-side-panel-banner%5Bv1.4.0%5D.png)
+![banner](https://github.com/sujit-waghmare/gemini-side-panel/blob/51b5b39dfb1c9d4c672cf91de885e8c9a719c55e/assets/images/Gemini-side-panel-banner%20%5BSarvam%20Support%5D.png)
 
 [![GitHub release](https://img.shields.io/github/v/release/sujit-waghmare/gemini-side-panel?color=blue&style=flat-square)](https://github.com/sujit-waghmare/gemini-side-panel/releases)
 [![Obsidian](https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat-square)](https://obsidian.md)
